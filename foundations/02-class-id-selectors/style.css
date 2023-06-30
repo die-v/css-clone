@@ -1,0 +1,23 @@
+#SecondLine {
+  font-size: 100px;
+  color: rgb(0, 0, 255);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#FourthLine {
+  font-weight: bold;
+  background-color: rgb(0, 255, 0);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  background-color: rgb(255, 182, 193);
+}
+
+.FirstLine, .FifthLine {
+  font-size: 30px;
+}
+
+.ThirdLine, #FourthLine {
+  font-size: 50px;
+}
